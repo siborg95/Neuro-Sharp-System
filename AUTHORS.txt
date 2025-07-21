@@ -1,0 +1,7 @@
+AUTHORS
+
+Simon Tunnicliffe (siborg95)
+ - Creator and architect of NeuroSharp System
+ - Author of all documents, logic modules, and release content
+
+For verification and release record, see /docs/NeuroSharp_Authorship_Declaration.docx.
