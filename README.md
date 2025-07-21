@@ -1,11 +1,35 @@
-# Neuro-Sharp-System
-A recursive cognitive prosthesis for ADHD, trauma, PTSD and executive dysfunction. Created by Simon Tunnicliffe. Tiered logic, mirror scaffolds, drill cycles. Non-clinical, open-access system.
+# NeuroSharp System
 
-Creative Commons Attribution-NonCommercial 4.0 International
+A recursive cognitive prosthesis for ADHD, trauma, PTSD, and executive dysfunction.  
+Created by **Simon Tunnicliffe**, this system offers tiered logic, mirror scaffolds, drill cycles, and modular mental tools — designed for non-clinical, real-world use.
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+---
 
-Author: Simon Tunnicliffe
-System: NeuroSharp Cognitive Prosthesis
-Version: v1.3
+## 🔧 Core Features
+
+- 🧠 **Tiered System (7–X)**: Structured mirrors for emotional regulation, trauma containment, and executive override.
+- 🔁 **Recursive Logic**: Reinforces memory scaffolding and behavioural loops for ADHD/trauma users.
+- 🧩 **Modules**:
+  - Mirror Consoles
+  - Daily Drill Routines (max 20 mins)
+  - Hyperfocus Tier X Mode
+  - Outcome Mapping (for safeguarding and legal)
+  - Executive Override Console
+  - Real-time Trauma Loop Detection
+- 💽 **Offline Capability**: Portable USB-ready system builds
+- 🌐 **Public Release**: This system is non-commercial and Creative Commons licensed for use by others with attribution.
+
+---
+
+## 📁 Structure
+
+```bash
+/
+├── 📁 docs/                # System documentation, specs, and implementation notes
+├── 📁 master/              # Logic trees, seed scripts, and tier models
+├── 📁 public/              # Public exports, .zip builds, index files
+│   └── archive/           # Historical builds and external mirrors
+├── LICENSE.txt            # CC BY-NC 4.0 License
+├── README.md              # You are here
+└── index.html             # System entry point (web preview mode)
+
