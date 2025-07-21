@@ -18,6 +18,22 @@ Created by **Simon Tunnicliffe**, this system offers tiered logic, mirror scaffo
   - Real-time Trauma Loop Detection
 - 💽 **Offline Capability**: Portable USB-ready system builds
 - 🌐 **Public Release**: This system is non-commercial and Creative Commons licensed for use by others with attribution.
+- 
+- 📜 Legal Attribution & Licensing
+This project is protected and governed under the following legal declarations and licenses:
+
+LICENSE.txt — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+COPYRIGHT.md — Copyright statement confirming Simon Tunnicliffe as the original author and creator
+
+AUTHORS.txt — Official authorship file naming Simon Tunnicliffe as the sole contributor to NeuroSharp
+
+NOTICE.md — Additional legal notices and public disclaimer
+
+Redistribution, reuse, or modification of any part of this system without express permission is strictly prohibited.
+All rights reserved unless otherwise specified in the LICENSE.
+
+© 2025 Simon Tunnicliffe. NeuroSharp is a protected cognitive prosthesis system. Public use permitted under non-commercial, non-derivative conditions.
 
 ---
 
